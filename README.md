@@ -19,8 +19,8 @@ No internal dependencies. `express-rate-limit` is the only runtime requirement.
   uploaded file ──▶ FileValidator ──▶ size ✓ extension ✓ MIME ✓ name ✓
 ```
 
-Open-source reference implementation extracted from my commercial work on a
-B2B media platform (proprietary business logic removed).
+Open-source reference implementation extracted from a client project — a digital
+signage platform for a Smart TV fleet (client code removed).
 
 ## Install
 
