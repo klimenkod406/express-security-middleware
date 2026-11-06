@@ -1,5 +1,8 @@
 # express-security-middleware
 
+[![CI](https://github.com/klimenkod406/express-security-middleware/actions/workflows/ci.yml/badge.svg)](https://github.com/klimenkod406/express-security-middleware/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Two drop-in Express middlewares that close the two most common holes in a
 small API: **unlimited request rates** and **unchecked file uploads**.
 
